@@ -111,7 +111,7 @@ h4 a,
 h5 a,
 h6 a {
      color: #212121;
-     text-decoration: none!important;
+     text-decoration: none !important;
      opacity: 1
 }
 
@@ -156,7 +156,7 @@ img {
      height: auto;
 }
 
- :focus {
+:focus {
      outline: 0;
 }
 
@@ -1065,3 +1065,9 @@ ul.location_icon li a:hover {
 
 /** end footer **/
 
+.logitrans {
+     font-size: 2rem;
+     font-weight: bold;
+     color: #3fa8f2;
+
+}
